@@ -1,6 +1,6 @@
 # simple_mpc_msgs
 
-ROS 2 message definitions for the VLA → MPC pipeline in [simple_mpc](https://gitlab.laas.fr/agimus/simple-mpc).
+ROS 2 message definitions for the VLA → MPC pipeline in [simple_mpc](https://github.com/ahaffemayer/simple-mpc).
 
 ## Messages
 
